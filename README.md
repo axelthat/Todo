@@ -15,7 +15,7 @@ You need to have a ES6 Compatible Browser. In most of the cases, Google Chrome w
 It's really easy to install this script. Insert 3 lines of code and you're good to go!
 
 ```
-<script src = "path/todo-es6.js"></script>
+<script src = "path/todo.js"></script>
 ```
 
 Now, create as many task as you need.
